@@ -8,17 +8,6 @@
 
 ---
 
-## 📸 Preview
-
-> Add screenshots or a GIF here.
-
-```
-assets/screenshots/dashboard.png
-assets/screenshots/mobile.png
-```
-
----
-
 ## ✨ Features
 
 - Professional Material 3 Dashboard
@@ -125,7 +114,3 @@ flutter run -d chrome
 If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
